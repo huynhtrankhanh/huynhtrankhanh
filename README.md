@@ -1,5 +1,7 @@
 ### Hello, World!
 
+> **Note to self:** Never learn stuff in isolation. Never build things in isolation. Always reach out for help, comments and feedback. Doing things in isolation harms rather than helps. Never sequester yourself.
+
 I am Huỳnh Trần Khanh, an awesome person on Planet Earth. If you are on Earth, you can always reach me through this email address: qcdz9r6wpcbh59@gmail.com. I often hang out in several online communities, primarily programming related.
 
 <p align="center"><img src="https://avatars0.githubusercontent.com/u/61727983?s=460&u=211c1830c26948df73199f207160ad8b43d9a926&v=4)" alt="My avatar" width="128"></p>

@@ -1,5 +1,7 @@
 ### Hello, World!
 
+**Warning:** Do not send friend requests to me out of the blue. I generally expect a reply when sending DMs, if I don't, **I will tell you explicitly, like, very explicitly.** I **regularly** block people who fail to respond to my messages.
+
 > **Note to self:** Never learn stuff in isolation. Never build things in isolation. Always reach out for help, comments and feedback. Doing things in isolation harms rather than helps. Never sequester yourself.
 
 I am Huỳnh Trần Khanh, an awesome person on Planet Earth. If you are on Earth, you can always reach me through this email address: qcdz9r6wpcbh59@gmail.com. I often hang out in several online communities, primarily programming related.

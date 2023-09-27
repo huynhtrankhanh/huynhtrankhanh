@@ -1,3 +1,11 @@
+**CoqIDE is terrible and deserves to die!**
+
+See! The Coq community doesn't find this statement offensive. This is a testament to how friendly and open the Coq community is.
+
+We have [better](https://github.com/ejgallego/coq-lsp) [options](https://github.com/coq-community/VsCoq) now and we are continually working on improving the editor experience.
+
+**[Join the Coq community now](https://coq.zulipchat.com)** and advance the state of the art in software verification.
+
 - I'm working on [CoqCP](https://github.com/huynhtrankhanh/CoqCP), a repository of formalized [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) proofs.
 - I'm on the [Coq Team](https://coq.inria.fr/coq-team.html). Ctrl+F for my full name!
 - I am familiar with JavaScript/TypeScript and Rust. I can code a well tested React app with the [React Testing Library](https://testing-library.com/react).

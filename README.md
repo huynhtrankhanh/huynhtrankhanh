@@ -1,4 +1,4 @@
-**CoqIDE is terrible and deserves to die!**
+[**CoqIDE is terrible and deserves to die!**](https://github.com/coq/ceps/blob/master/text/068-coqide-split.md)
 
 See! The Coq community doesn't find this statement offensive. This is a testament to how friendly and open the Coq community is.
 

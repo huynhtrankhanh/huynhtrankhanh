@@ -6,6 +6,12 @@ We have [better](https://github.com/ejgallego/coq-lsp) [options](https://github.
 
 **[Join the Coq community now](https://coq.zulipchat.com)** and advance the state of the art in software verification.
 
+-----
+
+I am a regular person writing code. I am not in academia and I don't aspire to be in academia. I am not misrepresenting myself. I do not possess expertise in any field. I am a layman.
+
+-----
+
 - I'm working on [CoqCP](https://github.com/huynhtrankhanh/CoqCP), a repository of formalized [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) proofs.
 - I'm on the [Coq Team](https://coq.inria.fr/coq-team.html). Ctrl+F for my full name!
 - I am familiar with JavaScript/TypeScript and Rust. I can code a well tested React app with the [React Testing Library](https://testing-library.com/react).

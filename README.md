@@ -20,4 +20,4 @@ I am a regular person writing code. I am not in academia and I don't aspire to b
 - I set [some challenges](https://codegolf.stackexchange.com/users/103581/hu%e1%bb%b3nh-tr%e1%ba%a7n-khanh) on the Code Golf Stack Exchange site.
 - I operated a [small Tor relay](https://metrics.torproject.org/rs.html#details/35AD2E229704BE679FDB97B36A59E11F06EBF4B8). Had to shut it down because of cost.
 - I wrote large parts of [this game](https://github.com/huynhtrankhanh/Crusgkeo) on a mobile phone.
-- There's a project which I can't tell you about yet. I'm working hard on it. My employer promised to open source the project soon.
+- I coded [HCMIU Map](https://hcmiumap.huynhtrankhanh.com) wholly on a mobile phone.

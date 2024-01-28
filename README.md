@@ -1,14 +1,5 @@
-[**CoqIDE is terrible and deserves to die!**](https://github.com/coq/ceps/blob/master/text/068-coqide-split.md)
-
-See! The Coq community doesn't find this statement offensive. This is a testament to how friendly and open the Coq community is.
-
-We have [better](https://github.com/ejgallego/coq-lsp) [options](https://github.com/coq-community/VsCoq) now and we are continually working on improving the editor experience.
-
-**[Join the Coq community now](https://coq.zulipchat.com)** and advance the state of the art in software verification.
-
------
-
-I am a regular person writing code. I am not in academia and I don't aspire to be in academia. I am not misrepresenting myself. I do not possess expertise in any field. I am a layman.
+![Thuế là nguồn thu chủ yếu để xây dựng và phát triển đất nước](./Thue_2.JPG)
+<sub>[Image source](https://commons.m.wikimedia.org/wiki/File:Thue_2.JPG)</sub>
 
 -----
 

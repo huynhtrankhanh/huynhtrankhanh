@@ -1,4 +1,5 @@
 - I'm working on [CoqCP](https://github.com/huynhtrankhanh/CoqCP), a repository of formalized [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) proofs.
+  + **CoqCP** is my bachelor thesis. Wish me luck!
 - I'm on the [Coq Team](https://coq.inria.fr/coq-team.html). Ctrl+F for my full name!
 - I am familiar with JavaScript/TypeScript and Rust. I can code a well tested React app with the [React Testing Library](https://testing-library.com/react).
 - I'm a former Lean user and an avid Coq user.

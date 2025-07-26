@@ -1,6 +1,6 @@
 - I am learning [**machine stenography**](https://en.wikipedia.org/wiki/Stenotype). I designed a [steno theory](https://github.com/huynhtrankhanh/vietnamese-steno) for Vietnamese. I also made a [steno keyboard](https://github.com/huynhtrankhanh/TwoPhoneSteno) with two phones.
 - I used to work on [CoqCP](https://github.com/huynhtrankhanh/CoqCP), a repository of formalized [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) proofs.
-  + **CoqCP** is my bachelor thesis. Wish me luck!
+  + **CoqCP** is my bachelor thesis. I got **89/100** for the thesis!
   + My paper got rejected 🎉
 - I'm currently working for a company in the People's Republic of China 🇨🇳 to develop an AI that can do formal verification.
 - I am familiar with JavaScript/TypeScript and Rust. I can code a well tested React app with the [React Testing Library](https://testing-library.com/react).
